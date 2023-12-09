@@ -1,0 +1,2 @@
+# MyFirstJourny
+Hello Git
